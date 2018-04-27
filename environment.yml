@@ -1,0 +1,7 @@
+name: ISN-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pygame
+ 
